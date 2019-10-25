@@ -3,7 +3,7 @@ ESX = nil
 cooldown = false
 
 Citizen.CreateThread(function()
-Citizen.Trace("\n\nbenjamin_plaque")
+Citizen.Trace("\n\nbnj_plaque")
 	while ESX == nil do
 		TriggerEvent('esx:getSharedObject', function(obj) ESX = obj end)
 		Citizen.Wait(0)
@@ -72,7 +72,7 @@ Citizen.CreateThread(function()
 	end
 end)
 
--- Benjamin
+-- BNJ_plaque
 function Tablica()
 	if cooldown then
 		ESX.ShowNotification('Tu dois attendre ' .. Config.cooldown .. ' secondes, pour cacher à nouveau la plaque!' )
@@ -134,6 +134,4 @@ function DrawText3D(x, y, z, text)
     DrawText(_x,_y)
 end
 
-
-Citizen.Trace("\n\nbenjamin_plaque")
 Citizen.Trace("\nHomme_efficace\n\n")
