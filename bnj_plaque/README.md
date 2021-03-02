@@ -7,10 +7,6 @@
 Installation : Mettre dans vos resources/ Mettre le SQL et start dans server.cfg
 ________________________________________________________________________________
 
-Requirements :
-
-InteractSound
-
 
 #####################################################
                       English
@@ -21,6 +17,4 @@ InteractSound
 Installation: Put in your resources / Put the SQL and start in server.cfg
 ________________________________________________________________________________
 
-Requirements:
 
-InteractSound
