@@ -1,3 +1,8 @@
+My Shop https://discord.gg/4GHz4QfZtT
+  
+  Preview : 
+  https://videas.fr/share/cbc8a339-6352-4bce-a2f3-dfafb86e2e49/
+
 #####################################################
                       Frensh
 #####################################################
